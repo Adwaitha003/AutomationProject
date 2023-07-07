@@ -10,5 +10,6 @@ public class bclass {
 	public void setUp() {
 		driver=new ChromeDriver();
 		driver.get("https://www.glamly.com/collections/women-dress?utm_source=cpc&utm_medium=google&utm_campaign=performance-max-18403529725&gclid=CjwKCAjws7WkBhBFEiwAIi168wz5BgK3OCrlx3EABTfw--_s-tcfuqWT-40tDhv6tEI3vspTYZbEaxoC19cQAvD_BwE");
+	
 	}
 }

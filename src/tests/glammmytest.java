@@ -37,7 +37,7 @@ public class glammmytest extends bclass{
 		addtocart cart =new addtocart(driver);
 		cart.shoping();
 		cart.clothes();
-		cart.closetab();
+		cart.purchase();
 		
 	}
 }
